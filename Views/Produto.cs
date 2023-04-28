@@ -140,7 +140,7 @@ namespace Views {
             btnSalvar.Click += (sender, e) => {
                 try
                 {
-                    Controllers.Produto.AdicionaProduto(int.Parse(txtId.Text), txtNome.Text, int.Parse(txtPreco.Text));
+                    Controllers.Produto.AdicionaProduto(int.Parse(txtId.Text), txtNome.Text, float.Parse(txtPreco.Text));
                     adicionarProduto.Hide();
                     adicionarProduto.Close();
                     adicionarProduto.Dispose();
@@ -235,7 +235,7 @@ namespace Views {
             btnSalvar.Left = 10;
             btnSalvar.Size = new System.Drawing.Size(100, 25);
             btnSalvar.Click += (sender, e) => {
-                Controllers.Produto.AlteraProduto(id, txtNome.Text, int.Parse(txtPreco.Text));
+                Controllers.Produto.AlteraProduto(id, txtNome.Text, float.Parse(txtPreco.Text));
                 editar.Hide();
                 editar.Close();
                 editar.Dispose();
