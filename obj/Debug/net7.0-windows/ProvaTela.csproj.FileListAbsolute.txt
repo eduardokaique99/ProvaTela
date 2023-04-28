@@ -1,0 +1,45 @@
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.csproj.AssemblyReference.cache
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.AssemblyInfoInputs.cache
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.AssemblyInfo.cs
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.exe
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.deps.json
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.runtimeconfig.json
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.dll
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.pdb
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.dll
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\refint\ProvaTela.dll
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.pdb
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.genruntimeconfig.cache
+C:\Users\eduardo.furlaneto\Desktop\ProvaTela\obj\Debug\net7.0-windows\ref\ProvaTela.dll
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.exe
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.deps.json
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.runtimeconfig.json
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.dll
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.pdb
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.csproj.AssemblyReference.cache
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.AssemblyInfoInputs.cache
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.AssemblyInfo.cs
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.csproj.CoreCompileInputs.cache
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.dll
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\refint\ProvaTela.dll
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.pdb
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.genruntimeconfig.cache
+C:\Users\Kaikão\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ref\ProvaTela.dll
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.exe
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.deps.json
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.runtimeconfig.json
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.dll
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\bin\Debug\net7.0-windows\ProvaTela.pdb
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.csproj.AssemblyReference.cache
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.AssemblyInfoInputs.cache
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.AssemblyInfo.cs
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.dll
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\refint\ProvaTela.dll
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.pdb
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ProvaTela.genruntimeconfig.cache
+C:\Users\eduardo.furlaneto\OneDrive - SENAC-SC\ProvaTela\ProvaTela\obj\Debug\net7.0-windows\ref\ProvaTela.dll
